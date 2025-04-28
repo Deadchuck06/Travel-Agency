@@ -10,8 +10,6 @@ Destinations Page: A list of popular destinations with details and images.
 
 Booking Form: A simple booking form for customers to inquire about travel packages.
 
-Contact Page: Information on how to get in touch with the agency.
-
 Responsive Design: The website is optimized for viewing on both desktop and mobile devices.
 
 Interactive Elements: Basic JavaScript functionality, such as form validation.
